@@ -3,3 +3,14 @@ h1
 		font-family: arial;
 		color: #7CB9E8;
 }
+.title	{
+	color: #9F2B68;
+}
+p	{
+	color: brown;
+	font-family: arial;
+}
+
+#random	{
+	font-family: cursive;
+}
