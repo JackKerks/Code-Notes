@@ -5,12 +5,19 @@ h1
 }
 .title	{
 	color: #9F2B68;
+	font-family: cursive;
 }
 p	{
 	color: brown;
-	font-family: arial;
+	font-family: "Book Antiqua";
 }
 
 #random	{
 	font-family: cursive;
+}
+
+h6	{
+	font-size: 25px;
+	color: brown;
+	font-family: "Book Antiqua";
 }
