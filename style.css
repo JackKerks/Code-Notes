@@ -1,0 +1,19 @@
+h1
+	{
+		font-family: "Book Antiqua";
+		color: #7CB9E8;
+		font-size: 25px;
+		
+}
+.title	{
+	color: #9F2B68;
+	font-family: cursive;
+}
+p	{
+	color: brown;
+	font-family: "Book Antiqua";
+}
+
+#random	{
+	font-family: cursive;
+}
