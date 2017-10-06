@@ -1,20 +1,28 @@
+body{
+	background: #DCDCDC;
+}
+
+
+
+
 h1 {
 		font-family: 'Playfair Display', "Book Antiqua", serif;
-		color: #7CB9E8;
+		color: #E32636;
 		font-size: 35px;
-		
+		text-align: center;
+
 	}
 .title	{
-	color: #9F2B68;
+	color: #5DADEC;
 	font-family: 'Playfair Display', serif;
 	text-align: center;
 }
 p	{
-	color: 	#0048BA;
+	color: 	black;
 	font-family: 'Playfair Display', serif;
 }
 
-#random	{
+#css	{
 	font-family: cursive;
 }
 
@@ -22,10 +30,4 @@ p	{
 	opacity: 0.5;
 	background-color: white;
 	color: black;
-}
-.main-banner {
-  background-image: url("https://nhl.bamcontent.com/images/photos/281798106/1284x722/cut.jpg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
 }
