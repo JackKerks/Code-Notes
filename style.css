@@ -20,6 +20,7 @@ h1 {
 p	{
 	color: 	black;
 	font-family: 'Playfair Display', serif;
+	
 }
 
 #css	{
@@ -30,4 +31,31 @@ p	{
 	opacity: 0.5;
 	background-color: white;
 	color: black;
+}
+
+#banner	{
+	 background-image: url("http://www.skimojo.com/wp-content/uploads/leftsidefadehelmet.png");
+	 height: 400px;
+	 width: 900px;
+	
+}
+
+h3	{
+	border: 3px solid white;
+	text-align: center;
+	width: 300px;
+	border-radius: 10px;
+	
+}
+
+.share 	{
+	
+}
+
+.share a	{
+	border: 3px solid red;
+	margin: auto auto;
+	padding: 30px;
+	margin-left: 400px;
+	
 }
