@@ -34,10 +34,11 @@ p	{
 }
 
 #banner	{
-	 background-image: url("http://www.skimojo.com/wp-content/uploads/leftsidefadehelmet.png");
-	 height: 400px;
-	 width: 900px;
-	
+	background-image: url("http://www.skimojo.com/wp-content/uploads/leftsidefadehelmet.png");
+	  width: 1089px;
+	height: 435px;
+	background-repeat: no-repeat;
+	background-size: 789px 435px;
 }
 
 h3	{
@@ -58,4 +59,8 @@ h3	{
 	padding: 30px;
 	margin-left: 400px;
 	
+}
+
+#html	{
+	height: 
 }
