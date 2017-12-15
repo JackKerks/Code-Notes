@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link href="./schedule.css" type="text/css" rel="stylesheet">
+	<!-- This links the CSS file to this HTML file. -->
+		<link href="./Class Schedule.css" type="text/css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
 		<title>My Class Schedule</title>
+		<script src="Class Schedule.js"></script>
+		
 	</head>
-	<style>
+	
 	<!-- This will get rid of the double lines on the boarder -->
+	<style>
 		table{
 		border-collapse: collapse;
 		}
 	</style>
 	<body>
+	<div class="nav">
+		<input type="text" name="search" placeholder="Bro, reach smt here...">
+	</div>
 		<h1 class="title">My Class Schedule</h1>
 		<table>
 			<!--These are the days of the week -->
@@ -38,7 +45,7 @@
 					<td>English<br />Mr.Slik<br />210</td>
 					<td>Religion<br />Mr.Right<br />150</td>
 					<td>PE<br />Mr. Gorilla<br />Gym</td>
-					<td>CompProg<br />Mr.Socca<br />CompLab</td>
+					<td id="bestclass">CompProg<br />Mr.Socca<br />CompLab</td>
 					<td>Math<br />Mr.Broncs<br />205</td>
 					<td>Science<br />Dr.Einstein<br />266</td>
 					<td><br /><br /></td>
@@ -123,9 +130,9 @@
 					<td>Architecture<br />Ms. Artsy<br />277</td>
 					<td>L.A.<br />Mr.Dark<br />Auditorium</td>
 					<td>Speech<br />Mr.Slik<br />210</td>
-					<td><br /><br /></td>
-					<td><br /><br /></td>
-					<td><br /><br /></td>
+					<td>Advisors<br />Ms. Artsy<br />277</td>
+					<td>Advisors<br />Ms. Artsy<br />277</td>
+					<td>Advisors<br />Ms. Artsy<br />277</td>
 				</tr>
 			
 			<!-- These are the fifth periods of the week -->
